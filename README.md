@@ -1,2 +1,2 @@
 # ZijieShan1004.github.io
-All projects repository
+This is the repository to all projects I have participated and still have source codes.
